@@ -1,6 +1,6 @@
 ---
 name: clear-tech-writing
-description: Rewrite or compose controlled technical text in English or Chinese, based on the ASD-STE100 method. Three tiers (report / procedure / descriptive), two strengths (strict / flavored), plus form-only checkers. Use when text must have only one reading: 技术文档、说明书、操作步骤、README、PR、错误信息、工具描述、agent 指令、任务汇报. Triggers: STE style, 简化技术英语, 受控中文, 受控语言, 去歧义, 让 agent 读不错. Not for literary, marketing, or persuasive writing.
+description: Rewrite or compose controlled technical text in English or Chinese, based on the ASD-STE100 method. Three tiers (report / procedure / descriptive), two strengths (strict / flavored), plus form-only checkers. Use when text must have only one reading: 技术文档、说明书、操作步骤、README、PR、错误信息、工具描述、agent 指令、任务汇报. Triggers: ASD skill, ASD skills, ASD 风格, ASD-STE100, STE style, STE 风格, 简化技术英语, 受控中文, 受控语言, 受控写作, 去歧义, 让 agent 读不错. Not for literary, marketing, or persuasive writing.
 ---
 
 # 受控技术写作（中英双语，基于 ASD-STE100 方法）
